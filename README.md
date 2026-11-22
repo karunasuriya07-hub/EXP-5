@@ -2,7 +2,7 @@
 
 | **Name:** |KARUNA SURIYA S | **Reg. No.:** | 26018298|
 |---|---|---|---|
-| **Date:** |22/11/2026| **Batch / Section:** |BE (CSE) |
+| **Date:** |22/11/2026| **Batch / Section:** |BE (CSE)  |
 
 ---
 
